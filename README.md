@@ -12,7 +12,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd laravel-adminpanel
+    cd adminpanel-trackmedds
 
 If you have linux system, you can execute the command below only in your project root
 
@@ -65,7 +65,7 @@ You can now access the server at http://localhost:8000
 **Command list**
 
     git clone https://github.com/NassirHenchiri/Trackmedds-Dashboard.git
-    cd laravel-adminpanel
+    cd adminpanel-trackmedds
     cp .env.example .env
     composer install
     npm install
