@@ -76,3 +76,9 @@ You can now access the server at http://localhost:8000
     php artisan vendor:publish --tag=lfm_public
     php artisan migrate
     php artisan passport:install
+    
+**Developement Team**
+
+Henchiri Nassir
+Tabbene Mohamed
+Chikhaoui Firas
