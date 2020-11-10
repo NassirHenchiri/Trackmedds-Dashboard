@@ -79,6 +79,6 @@ You can now access the server at http://localhost:8000
     
 **Developement Team**
 
-Henchiri Nassir
-Tabbene Mohamed
+Henchiri Nassir <br>
+Tabbene Mohamed <br>
 Chikhaoui Firas
