@@ -64,7 +64,7 @@ You can now access the server at http://localhost:8000
 
 **Command list**
 
-    git clone https://github.com/viralsolani/laravel-adminpanel.git
+    git clone https://github.com/NassirHenchiri/Trackmedds-Dashboard.git
     cd laravel-adminpanel
     cp .env.example .env
     composer install
