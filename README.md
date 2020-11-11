@@ -77,6 +77,9 @@ You can now access the server at http://localhost:8000
     php artisan migrate
     php artisan passport:install
     
+ **wATCH demo**   
+ https://www.youtube.com/watch?v=AStV-qyR8nE&t=635s
+    
 **Developement Team**
 
 Henchiri Nassir <br>
